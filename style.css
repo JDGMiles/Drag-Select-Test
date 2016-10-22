@@ -40,12 +40,12 @@ table td.highlighted {
 }
 
 .popup {
-  margin: 70px auto;
+  margin: 57px auto;
   padding: 20px;
   background: #181818;
   border: 2px solid #AAAAAA;
   border-radius: 20px;
-  width: 30%;
+  width: 320px;
   position: relative;
   transition: all 0s ease-in-out;
 }
